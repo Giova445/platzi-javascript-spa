@@ -1,4 +1,4 @@
-anguage: node_js #establecer lenguaje
+language: node_js #establecer lenguaje
 cache:            
   directories:  
     - ~/.npm    #ubicacion de nuestro directorio
